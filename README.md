@@ -7,14 +7,6 @@
 [![Engine: curl_cffi](https://img.shields.io/badge/Engine-curl_cffi-orange.svg)](https://github.com/yifeikong/curl_cffi)
 [![Discord Gateway](https://img.shields.io/badge/Gateway-Discord%20v10-5865F2.svg)](https://discord.com)
 
----
-
-## 📸 Demo Preview
-
-![Demo](https://via.placeholder.com/1200x600.png?text=Ultra+Fusion+Demo+Screenshot)
-
----
-
 ## 🚀 Tính Năng Nổi Bật (Features)
 
 - **⚡ Chiến thuật Parallel Staggered:** Bắn lệnh `JOIN` và các luồng `CLAIM` song song với độ trễ vi mô (`45ms`, `70ms`, `75ms`), kết hợp thuật toán **Rapid Post-Join Retry** (`0.35s`, `0.8s`, `1.6s`, `2.5s`) vét group ngay khi membership vừa mở.
