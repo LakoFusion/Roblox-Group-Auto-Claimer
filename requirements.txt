@@ -1,0 +1,4 @@
+curl_cffi
+websockets
+colorama
+uvloop
